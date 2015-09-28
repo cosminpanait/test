@@ -1,2 +1,0 @@
-test  - test from newbranch
-edit new file test from newbranch
