@@ -1,2 +1,4 @@
 test
 add some text diff
+test  - test from newbranch
+edit new file test from newbranch
